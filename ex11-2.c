@@ -5,6 +5,7 @@
 #define SIZE 512
     
 // 자식 저장소
+// child는 서브모둘입니다.
 
 int main()
 {
